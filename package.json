@@ -16,5 +16,8 @@
     "modify"
   ],
   "author": "James Brumond",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "json-file": "latest"
+  }
 }

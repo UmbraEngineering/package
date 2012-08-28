@@ -18,6 +18,7 @@
   "author": "James Brumond",
   "license": "MIT",
   "dependencies": {
-    "json-file": "latest"
+    "json-file": "latest",
+    "semver": "~1.0.14"
   }
 }

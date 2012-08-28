@@ -1,6 +1,6 @@
 {
   "name": "pkg",
-  "version": "0.0.0-1",
+  "version": "0.0.1",
   "description": "A small module for reading/editing/writing npm package.json files",
   "main": "lib/index.js",
   "scripts": {

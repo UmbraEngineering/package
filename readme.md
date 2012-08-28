@@ -65,20 +65,3 @@ file.incVersion('minor');
 file.version();  // 1.3.0-0
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
